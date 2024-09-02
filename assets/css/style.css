@@ -33,6 +33,9 @@ body{
 
 }
 
+header{
+    text-align: center;
+}
 .gradient{
     background: linear-gradient(to right, #9ddacb,#f8dcb4);
 }
@@ -86,6 +89,8 @@ img{
 
 footer{
     display: flex;
+    justify-content: center;
+    align-items: center;
     gap: 1.5em;
 }
 
